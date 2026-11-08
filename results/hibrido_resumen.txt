@@ -1,0 +1,30 @@
+    puerto  horizonte_dias  anio_prueba      seleccion  n_prueba  MAE_hibrido_m  MAE_ridge_m  MAE_persistencia_m  RMSE_hibrido_m
+  Asuncion              15         2022        ridge_m       350          0.436        0.436               0.509           0.600
+  Asuncion              30         2022        ridge_m       335          0.623        0.623               0.822           0.892
+Concepcion              15         2022        ridge_m       350          0.259        0.259               0.216           0.372
+Concepcion              30         2022        ridge_m       335          0.322        0.322               0.318           0.413
+   Villeta              15         2022        ridge_m       350          0.464        0.464               0.536           0.620
+   Villeta              30         2022        ridge_m       335          0.715        0.715               0.871           0.959
+  Asuncion              15         2023        ridge_m       350          0.361        0.361               0.496           0.450
+  Asuncion              30         2023        ridge_m       335          0.695        0.695               0.896           0.935
+Concepcion              15         2023 persistencia_m       350          0.476        0.374               0.476           0.721
+Concepcion              30         2023 persistencia_m       335          0.880        0.734               0.880           1.274
+   Villeta              15         2023        ridge_m       350          0.348        0.348               0.498           0.429
+   Villeta              30         2023        ridge_m       335          0.661        0.661               0.918           0.892
+  Asuncion              15         2024        ridge_m       351          0.356        0.356               0.372           0.446
+  Asuncion              30         2024        ridge_m       336          0.553        0.553               0.572           0.672
+Concepcion              15         2024        ridge_m       351          0.224        0.224               0.143           0.289
+Concepcion              30         2024        ridge_m       336          0.377        0.377               0.240           0.494
+   Villeta              15         2024        ridge_m       351          0.361        0.361               0.391           0.449
+   Villeta              30         2024        ridge_m       336          0.586        0.586               0.615           0.732
+  Asuncion              15         2025        ridge_m       350          0.355        0.355               0.499           0.487
+  Asuncion              30         2025        ridge_m       335          0.493        0.493               0.779           0.634
+Concepcion              15         2025 persistencia_m       350          0.408        0.262               0.408           0.626
+Concepcion              30         2025        ridge_m       335          0.440        0.440               0.705           0.730
+   Villeta              15         2025        ridge_m       350          0.344        0.344               0.502           0.467
+   Villeta              30         2025        ridge_m       335          0.487        0.487               0.787           0.611
+
+Promedios ponderados por predicción (m):
+ridge_m 0.4488
+persistencia_m 0.5571
+prediccion_hibrida_m 0.4653

@@ -1,0 +1,9 @@
+Columnas disponibles: ['puerto', 'horizonte', 'fecha_origen', 'fecha_objetivo', 'real_m', 'predicho_m', 'limite_inferior90_m', 'limite_superior90_m']
+    puerto  horizonte  cobertura  ancho_promedio_m   n
+  Asuncion         15   0.923393          1.800228 731
+  Asuncion         30   0.984952          3.884257 731
+Concepcion         15   0.978112          2.454881 731
+Concepcion         30   0.990424          5.132857 731
+   Villeta         15   0.911081          1.675666 731
+   Villeta         30   0.972640          3.759605 731
+Advertencia: no ajustar intervalos usando este conjunto de prueba.

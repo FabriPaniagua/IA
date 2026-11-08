@@ -1,0 +1,126 @@
+{
+  "resultados": [
+    {
+      "puerto": "Concepcion",
+      "horizonte": 15,
+      "metodo": "Ridge_delta",
+      "MAE_modelo_m": 0.24241,
+      "MAE_persistencia_m": 0.26925,
+      "RMSE_modelo_m": 0.40333,
+      "cobertura90": 0.9521,
+      "mejora_MAE_pct": 9.97
+    },
+    {
+      "puerto": "Concepcion",
+      "horizonte": 30,
+      "metodo": "Ridge_delta",
+      "MAE_modelo_m": 0.41901,
+      "MAE_persistencia_m": 0.45512,
+      "RMSE_modelo_m": 0.64142,
+      "cobertura90": 0.948,
+      "mejora_MAE_pct": 7.93
+    },
+    {
+      "puerto": "Asuncion",
+      "horizonte": 15,
+      "metodo": "Ridge_delta",
+      "MAE_modelo_m": 0.37819,
+      "MAE_persistencia_m": 0.44425,
+      "RMSE_modelo_m": 0.49134,
+      "cobertura90": 0.8413,
+      "mejora_MAE_pct": 14.87
+    },
+    {
+      "puerto": "Asuncion",
+      "horizonte": 30,
+      "metodo": "Ridge_delta",
+      "MAE_modelo_m": 0.59448,
+      "MAE_persistencia_m": 0.6946,
+      "RMSE_modelo_m": 0.76385,
+      "cobertura90": 0.9412,
+      "mejora_MAE_pct": 14.41
+    },
+    {
+      "puerto": "Villeta",
+      "horizonte": 15,
+      "metodo": "Ridge_delta",
+      "MAE_modelo_m": 0.37845,
+      "MAE_persistencia_m": 0.45442,
+      "RMSE_modelo_m": 0.48647,
+      "cobertura90": 0.8399,
+      "mejora_MAE_pct": 16.72
+    },
+    {
+      "puerto": "Villeta",
+      "horizonte": 30,
+      "metodo": "Ridge_delta",
+      "MAE_modelo_m": 0.61579,
+      "MAE_persistencia_m": 0.71989,
+      "RMSE_modelo_m": 0.79144,
+      "cobertura90": 0.9316,
+      "mejora_MAE_pct": 14.46
+    }
+  ],
+  "verificacion": [
+    {
+      "puerto": "Concepcion",
+      "horizonte": 15,
+      "n": 731,
+      "mae_recalculado": 0.24241,
+      "mae_reportado": 0.24241,
+      "cobertura_recalculada": 0.95212,
+      "cobertura_reportada": 0.9521,
+      "coincide": true
+    },
+    {
+      "puerto": "Concepcion",
+      "horizonte": 30,
+      "n": 731,
+      "mae_recalculado": 0.41901,
+      "mae_reportado": 0.41901,
+      "cobertura_recalculada": 0.94802,
+      "cobertura_reportada": 0.948,
+      "coincide": true
+    },
+    {
+      "puerto": "Asuncion",
+      "horizonte": 15,
+      "n": 731,
+      "mae_recalculado": 0.37819,
+      "mae_reportado": 0.37819,
+      "cobertura_recalculada": 0.84131,
+      "cobertura_reportada": 0.8413,
+      "coincide": true
+    },
+    {
+      "puerto": "Asuncion",
+      "horizonte": 30,
+      "n": 731,
+      "mae_recalculado": 0.59448,
+      "mae_reportado": 0.59448,
+      "cobertura_recalculada": 0.94118,
+      "cobertura_reportada": 0.9412,
+      "coincide": true
+    },
+    {
+      "puerto": "Villeta",
+      "horizonte": 15,
+      "n": 731,
+      "mae_recalculado": 0.37845,
+      "mae_reportado": 0.37845,
+      "cobertura_recalculada": 0.83995,
+      "cobertura_reportada": 0.8399,
+      "coincide": true
+    },
+    {
+      "puerto": "Villeta",
+      "horizonte": 30,
+      "n": 731,
+      "mae_recalculado": 0.61579,
+      "mae_reportado": 0.61579,
+      "cobertura_recalculada": 0.9316,
+      "cobertura_reportada": 0.9316,
+      "coincide": true
+    }
+  ]
+}
