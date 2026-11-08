@@ -1,0 +1,14 @@
+{
+  "origenes": [
+    "2026-09-01",
+    "2026-10-01"
+  ],
+  "horizontes": [
+    15,
+    30
+  ],
+  "regla_entrenamiento": "fecha objetivo <= fecha origen; origen de entrenamiento < fecha origen",
+  "seleccion": "Ninguna; todos los modelos prefijados antes de observar resultados de 2026",
+  "limitacion": "Solo cinco orígenes por puerto y horizonte; no constituye evidencia concluyente ni calibra intervalos",
+  "filas": 36
+}
